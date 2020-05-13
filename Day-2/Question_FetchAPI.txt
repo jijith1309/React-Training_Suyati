@@ -1,0 +1,3 @@
+Is the Fetch API an ECMAScript feature ?
+
+No.It is defined by the standards bodies WHATWG and W3C.
