@@ -1,3 +1,0 @@
-// React fragment usage:
-// Fragments lets you group a list of children without adding extra nodes to the DOM 
-// React Fragment outputs no HTMLElement.
